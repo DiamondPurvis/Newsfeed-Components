@@ -1,5 +1,6 @@
 
 const toggleMenu = () => {
+  menu.classList.toggle('menu--open');
   // Toggle the "menu--open" class on your menu refence. 
 }
 
